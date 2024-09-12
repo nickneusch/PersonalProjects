@@ -5,7 +5,7 @@ This is my Tableau Portfolio
 
 Big10 Basketball Dashboard: [https://public.tableau.com/app/profile/nicholas.neuschwander/viz/BIG10Dashboard/BIG10TeamDash]
 
-Descrition: This Dashboard provides analytical insight to the 2023-2024 season of Big10 Basketball. The filters are adjustable by team(s) and season(s). Data is able to be filtered by any (or multiple) of the past 10 seasons and any (or multiple) of the Big10 teams, including the new, former Pac12 additions.
+Descrition: This Dashboard provides analytical insight to the 2023-2024 season of Big10 Basketball. The filters are adjustable by team(s) and season(s). Data is able to be filtered by any (or multiple) of the past 10 seasons and any (or multiple) of the Big10 teams, including the new Pac12 additions.
 
 
 
