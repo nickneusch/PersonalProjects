@@ -1,5 +1,5 @@
 # PersonalProjects
-This is my Tableau Portfolio
+This is my Tableau Portfolio (Projects are Desktop-view only)
 
 
 
