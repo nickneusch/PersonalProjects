@@ -17,7 +17,7 @@ Description: This report is looking for trends in Head Coach Willard’s teams t
 ----
 
 
-This is my Tableau Portfolio (Projects are Desktop-view only)
+My Tableau Portfolio (Projects are Desktop-view only)
 
 
 --
