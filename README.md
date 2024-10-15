@@ -5,6 +5,7 @@ These are my Personal Projects
 ----
 
 Reports
+
 __
 
 Maryland Basketball Analysis: [Data Analysis Report on Maryland Basketball.pdf](https://github.com/user-attachments/files/17216776/Data.Analysis.Report.on.Maryland.Basketball.pdf)
@@ -19,6 +20,7 @@ Description: This report is looking for trends in Head Coach Willard’s teams t
 
 
 My Tableau Portfolio (Projects are Desktop-view only)
+
 __
 
 Big10 Basketball Dashboard: [https://public.tableau.com/app/profile/nicholas.neuschwander/viz/BIG10Dashboard/BIG10TeamDash]
