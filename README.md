@@ -35,6 +35,6 @@ __
 PSA Grading Dashboard: [https://public.tableau.com/app/profile/nicholas.neuschwander/viz/Tay_CollectsPSADashboard/Dashboard3]
 
 
-Date: August 2024
+Date: July 2024
 
 Description: This Dashboard provides valuable insight into the client's grades of sports cards. I imported various datasets from PSA, cleaned and transformed them using Python, and created an interactive visualization using Tableau. The purpose of the visualization is to provide my clients with information on which types of their cards are grading the best, which allows them to optimize their future orders.
