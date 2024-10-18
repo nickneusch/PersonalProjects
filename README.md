@@ -1,9 +1,5 @@
 # PersonalProjects
 
-These are my Personal Projects
-
-----
-
 Reports
 
 __
